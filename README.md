@@ -1,45 +1,110 @@
-[![MasterHead](https://raw.githubusercontent.com/SakNoelCode/Imagenes_Proyectos/master/banner.jpg)](#)
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm SakCode</h1>
-<h3 align="center">A web developer from Latin America</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SakNoelCode/Imagenes_Proyectos/master/developer.gif"></img>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakcode&label=Profile%20views&color=0e75b6&style=flat" alt="sakcode" /> </p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SakNoelCode/Imagenes_Proyectos/master/banner.jpg" alt="SakCode Banner" width="100%" height="150" style="object-fit: cover; max-height: 150px; border-radius: 12px;" />
+</div>
 
-- 🔭 I’m currently working as a **Freelancer**
+<h1 align="center">
+  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38" /> I'm SakCode
+</h1>
 
-- 🌱 I’m currently learning **Android development and Videogames**
+<h3 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="Rocket" width="26" style="vertical-align: middle; display: inline-block;" /> Full Stack Software Engineer & Web Artisan from Latin America <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.gif" alt="Earth" width="26" style="vertical-align: middle; display: inline-block;" />
+</h3>
 
-- 👯 I’m looking to collaborate on **Laravel projects**
-
-- 📝 I regularly write articles on my [Blog](https://universityproyectx.blogspot.com/ "Blog")
-
-- 💬 Ask me about **Laravel, Livewire, Inertia and Vue**
-
-- 📫 How to reach me **arcangelrs21@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/sak_arcangel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sak_arcangel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@sakcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sakcode" height="30" width="40" /></a>
-<a href="https://discord.gg/#9182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9182" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakcode&label=Profile%20views&color=0e75b6&style=flat" alt="sakcode" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+
+<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/SakNoelCode/Imagenes_Proyectos/master/developer.gif" style="border-radius: 14px; margin-left: 16px; margin-bottom: 16px;" />
+
+### 👨‍💻 About Me
+
+- 🔭 Currently building modern web architectures and robust scalable platforms.
+- ⚡ Specialized in the **Laravel + Inertia.js + Vue.js** reactive full-stack ecosystem.
+- 🌱 Continuously expanding skills in **Game Development (Unity)** and **Mobile Apps (Android)**.
+- 💬 Ask me about **Laravel, Vue 3, Inertia, Livewire, RESTful APIs, and Database Design**.
+- 📫 Reach out directly via Discord below!
+
+<br/>
+
+### 💬 Connect With Me
+
+<p align="left">
+  <a href="https://discord.com/users/9182" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-SakCode%239182-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="35" />
+  </a>
+</p>
+
+<div style="clear: both;"></div>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=saknoelcode&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sakcode" /></p>
+### 🛠️ Tech Stack & Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saknoelcode&show_icons=true&locale=en&theme=dracula" alt="sakcode" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saknoelcode&theme=dracula" alt="sakcode" /></p>
+#### 🚀 Backend & Core Architecture
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+
+#### 🎨 Frontend & User Interface
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Vue.js%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
+</p>
+
+#### 🗄️ Databases & Storage
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoft&logoColor=white" alt="MSSQL" />
+</p>
+
+#### 📱 Mobile, Gaming & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
+</p>
+
+</div>
 
 ---
 
----
-<details>
-  <summary>Click👆</summary>
-  <pre>
-  💞you are the best💞
-  </pre>
-</details>
+### 📈 Activity & Streak Analytics
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SakNoelCode&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=F43F5E&currStreakLabel=6366F1" alt="GitHub Streak Stats" width="85%" />
+
+  <br/>
+</div>
+
+
+
+<div align="center">
+  <br/>
+  
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&stroke=1E40AF&strokeWidth=2&height=115&text=%E2%80%9CIf%20I%20have%20seen%20further,%20it%20is%20by%20standing%20on%20the%20shoulders%20of%20giants.%E2%80%9D&fontSize=15&fontColor=F1F5F9&desc=%E2%80%94%20Isaac%20Newton&descFontSize=12&descColor=3B82F6&descAlignY=76&descAlign=50&borderRadius=14" width="80%" alt="Isaac Newton Quote" />
+  </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=020617,0B192C,172554,1E3A8A,1E40AF&height=120&section=footer&text=Turning%20ideas%20into%20code%20✨&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%" />
+</div>
