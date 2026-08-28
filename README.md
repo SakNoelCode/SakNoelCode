@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SakNoelCode/Imagenes_Proyectos/master/banner.jpg" alt="SakCode Banner" width="100%" height="150" style="object-fit: cover; max-height: 150px; border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/SakNoelCode/Imagenes_Proyectos/master/banner1.jpg" alt="SakCode Banner" width="100%" height="150" style="object-fit: cover; max-height: 150px; border-radius: 12px;" />
 </div>
 
 <h1 align="center">
